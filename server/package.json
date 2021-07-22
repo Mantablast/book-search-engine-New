@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
     "watch": "nodemon",
     "seed": "node config/seeds.js"
   },
@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.25.2",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
     "faker": "^5.5.3",
     "graphql": "^15.5.1",
