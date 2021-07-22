@@ -5,9 +5,9 @@ Google api to record saved books searched in the search engine.
 ![Screenshot](./client/public/screenshot.png)
 Project by: Aimee J  
 Main Github: [MissAimeeJay](https://github.com/MissAimeeJay)
-Repository Link: https://github.com/MissAimeeJay/book-search-engine-MERN  
+Repository Link: https://github.com/MissAimeeJay/book-search-engine-New
 Live Page Url:  
-[https://stormy-ridge-05034.herokuapp.com/](https://stormy-ridge-05034.herokuapp.com/)
+[https://fierce-dusk-98155.herokuapp.com/](https://fierce-dusk-98155.herokuapp.com/)
 
 ## Table of Contents
 
